@@ -1,0 +1,43 @@
+body{
+background-image: url(https://ak.picdn.net/shutterstock/videos/10793555/thumb/1.jpg);
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+}
+header nav ul{
+    display:flex;
+}
+
+header nav ul li a{
+    margin: 30px;
+}
+
+.container{
+    background-color: white;
+    margin:20px;
+    justify-content: space-around;
+}
+
+    
+}
+
+.container img{
+    margin:20px;
+    width: 25%;
+    padding:20px;
+}
+
+
+
+    
+
+
+
+}

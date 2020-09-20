@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/10793555/thumb/1.jpg);
+    }
+    
+header nav{
+    float:right;
+}
+header h1,
+header nav ul li{
+    display:inline-block;
+    margin:15px;
+}
+
+.container{
+    background-color: white;
+    margin:20px;
+}
