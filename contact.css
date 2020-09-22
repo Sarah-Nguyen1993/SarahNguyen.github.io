@@ -1,22 +1,28 @@
+/*insert the image for the background*/
 body{
     background-image: url(https://images.unsplash.com/photo-1533628635777-112b2239b1c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60);
     }
+
+/*style for navbar*/
 .navbar-nav{
     margin-left:auto;
 }
-    
+ 
+/*style for name of the website*/
 h1{
     font-family: 'Dancing Script', cursive;
     color: rgb(223, 73, 95);
     font-size:30px;
 }
 
+/*style for the header of the main section*/
 h2{
     font-family: 'Dancing Script', cursive;
     color: rgb(223, 73, 95);
     font-size:28px;
 }
-    
+ 
+/*style for the main section*/
 .container{
     background-color: white;
     margin:20px;
