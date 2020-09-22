@@ -14,5 +14,27 @@ h1{
     background-color: white;
     margin:20px;
     height:700px;
-   
+    width:100%; 
 }
+
+@media (max-width:400px){
+    .container{
+        margin:0px;
+        padding:50px;  
+    }   
+    body{
+        margin:10px;
+    }
+}
+
+@media (min-width:400px) and (max-width:786){
+    .container{
+        margin:10px;
+        padding:20px; 
+    }
+    body{
+        margin:20px;
+    }
+}
+
+
