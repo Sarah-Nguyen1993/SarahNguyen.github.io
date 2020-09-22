@@ -1,34 +1,43 @@
 
 body{
     background-image: url(https://images.unsplash.com/photo-1533628635777-112b2239b1c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60);
-    }
+}
 .navbar-nav{
     margin-left:auto;
 }
-    
+/* Style for my name*/   
 h1{
     font-family: 'Dancing Script', cursive;
     color: rgb(223, 73, 95);
+    font-size:30px;
 }
-    
-    
-.container{
-    background-color: white;
 
+/* Style for About Me*/   
+h2{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(223, 73, 95);
+    font-size:28px;
 }
-img{
+
+ /* Style for the main section*/   
+.container{
+        background-color: white;
+        margin:20px;
+        padding:20px;
+        font-size:16px;
+        font-family:Arial, Helvetica, sans-serif; 
+        width: 90%;
+} 
+
+/* Style for the image*/   
+.row img{
     float:left;
     margin-right: 15px;
 }
+
+/* Style for the paragraph*/   
 .row{
     margin:15px;
 }
-header nav{
-    float:right;
-}
-header h1,
-header nav ul li{
-    display:inline-block;
-    margin:15px;
 
-}
+
