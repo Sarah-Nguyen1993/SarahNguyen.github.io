@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SarahNguyen.github.io/static/css/main.fd30b992.chunk.css",
+    "main.js": "/SarahNguyen.github.io/static/js/main.95f89d64.chunk.js",
+    "main.js.map": "/SarahNguyen.github.io/static/js/main.95f89d64.chunk.js.map",
+    "runtime-main.js": "/SarahNguyen.github.io/static/js/runtime-main.92bb8221.js",
+    "runtime-main.js.map": "/SarahNguyen.github.io/static/js/runtime-main.92bb8221.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/SarahNguyen.github.io/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e76ef975.chunk.js": "/SarahNguyen.github.io/static/js/2.e76ef975.chunk.js",
+    "static/js/2.e76ef975.chunk.js.map": "/SarahNguyen.github.io/static/js/2.e76ef975.chunk.js.map",
+    "index.html": "/SarahNguyen.github.io/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/SarahNguyen.github.io/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.fd30b992.chunk.css.map": "/SarahNguyen.github.io/static/css/main.fd30b992.chunk.css.map",
+    "static/js/2.e76ef975.chunk.js.LICENSE.txt": "/SarahNguyen.github.io/static/js/2.e76ef975.chunk.js.LICENSE.txt",
+    "static/media/PhotoPhriend.7f78c6c8.gif": "/SarahNguyen.github.io/static/media/PhotoPhriend.7f78c6c8.gif",
+    "static/media/portrait.d3e5f6cc.jpg": "/SarahNguyen.github.io/static/media/portrait.d3e5f6cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92bb8221.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e76ef975.chunk.js",
+    "static/css/main.fd30b992.chunk.css",
+    "static/js/main.95f89d64.chunk.js"
+  ]
+}
