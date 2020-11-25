@@ -1,0 +1,15 @@
+nav.navbar.navbar-default {
+  margin-bottom: 10px; 
+}
+
+.navbar-brand {
+  font-size:50px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.navbar-nav{
+  margin-left:auto;
+}
+.navbar {
+  background-color:pink
+}
